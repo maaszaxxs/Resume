@@ -47,7 +47,7 @@
                         67911 · Nairobi, KE 00200 · +254728914748 ·
                         <a href="mailto:name@email.com">zjerainy@gmail.com</a>
                     </div>
-                    <h2>Techie</h2>
+                    <h2>Techinnovator</h2>
                     <p class="lead mb-5">A technology professional with a passion for removing technological barriers of entry for startups and small-scale businesses. I have experience in network engineering and system administration. Interested in AWS, Azure, GCP, Python, SQL, Web Development, Data Science and Blockchain.<br>
                         <a target="_blank" class="social-icon" href="https://www.linkedin.com/in/zacharia-njiraini-4a723983/"><i class="fab fa-linkedin-in"></i></a>
                         <a target="_blank" class="social-icon" href="https://github.com/maaszaxxs"><i class="fab fa-github"></i></a>
@@ -74,26 +74,26 @@
                         <div class="flex-grow-1">
                             <h3 class="mb-0">AWS Cloud Practitioner</h3>
                             <div class="subheading mb-3">Azubi Africa</div>
-                            <p>Involved in a PanAfrican cohort and worked on a Madlibs Python project and an E-commerce wordpress site hosted on Lightsail.</p>
+                            <p>Involved in a PanAfrican cohort and worked on a Madlibs Python project and an E-commerce WordPress site hosted on Lightsail.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">September 2021 - December 2021</span></div>
                     </div>
-<!--                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">-->
-<!--                        <div class="flex-grow-1">-->
-<!--                            <h3 class="mb-0">Junior Web Designer</h3>-->
-<!--                            <div class="subheading mb-3">Shout! Media Productions</div>-->
-<!--                            <p>Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.</p>-->
-<!--                        </div>-->
-<!--                        <div class="flex-shrink-0"><span class="text-primary">July 2010 - December 2011</span></div>-->
-<!--                    </div>-->
-<!--                    <div class="d-flex flex-column flex-md-row justify-content-between">-->
-<!--                        <div class="flex-grow-1">-->
-<!--                            <h3 class="mb-0">Web Design Intern</h3>-->
-<!--                            <div class="subheading mb-3">Shout! Media Productions</div>-->
-<!--                            <p>Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI.</p>-->
-<!--                        </div>-->
-<!--                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>-->
-<!--                    </div>-->
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Network Engineer</h3>
+                            <div class="subheading mb-3">Circuit Business Systems Ltd.</div>
+                            <p>Implementing network projects including new fiber laying, extending LAN and WLAN. Automating repetitive tasks with bash & python scripting. Ensuring uptime of critical systems and ensuring network equipment is highly operational.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">May 2019 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">ICT Systems Administrator</h3>
+                            <div class="subheading mb-3">Legend Hotels Limited</div>
+                            <p>Upgrading server resources and fiber uplink projects. ERP support with rolling out updates and reporting any issues to the development team. Managing virtualization, uptime of critical resources and handling procurement of ICT resources.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2008 - June 2010</span></div>
+                    </div>
                 </div>
             </section>
             <hr class="m-0" />
@@ -110,13 +110,29 @@
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">January 2022 - Present</span></div>
                     </div>
-                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Azubi Africa</h3>
                             <div class="subheading mb-3">AWS Re-Start Programme</div>
                             <!-- <p>GPA: 3.56</p>-->
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">September 2021 - December 2021</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Dedan Kimathi University of Technology</h3>
+                            <div class="subheading mb-3">Bsc Telecommunication & Information Engineering</div>
+                            <!-- <p>GPA: 3.56</p>-->
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2009 - February 2014</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Kenya Institute of Management</h3>
+                            <div class="subheading mb-3">Diploma in Business Management: Project Management Option</div>
+                            <!-- <p>GPA: 3.56</p>-->
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2014 - November 2015</span></div>
                     </div>
                 </div>
             </section>
@@ -131,13 +147,13 @@
                         <li class="list-inline-item"><i class="fab fa-css3-alt"></i></li>
                         <li class="list-inline-item"><i class="fab fa-bootstrap"></i></li>
                         <li class="list-inline-item"><i class="fab fa-python"></i></li>
-<!--                        <li class="list-inline-item"><i class="fab fa-react"></i></li>-->
-<!--                        <li class="list-inline-item"><i class="fab fa-node-js"></i></li>-->
-<!--                        <li class="list-inline-item"><i class="fab fa-sass"></i></li>-->
-<!--                        <li class="list-inline-item"><i class="fab fa-less"></i></li>-->
-<!--                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>-->
-<!--                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>-->
-<!--                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>-->
+                        <li class="list-inline-item"><i class="fab fa-linux"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-aws"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-microsoft"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-git"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-apple"></i></li>
+                        <li class="list-inline-item"><i class="fa fa-cloud" aria-hidden="true"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-google"></i></li>
 <!--                        <li class="list-inline-item"><i class="fab fa-npm"></i></li>-->
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
@@ -152,7 +168,7 @@
                         </li>
 <!--                        <li>-->
 <!--                            <span class="fa-li"><i class="fas fa-check"></i></span>-->
-<!--                            Cross Functional Teams-->
+<!--                            Cross-Functional Teams-->
 <!--                        </li>-->
 <!--                        <li>-->
 <!--                            <span class="fa-li"><i class="fas fa-check"></i></span>-->
@@ -166,8 +182,8 @@
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a cloud web developer, I enjoy most of my time being outdoors. I enjoy hiking, site seeing, and traveling.</p>
-                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the front-end web development world.</p>
+                    <p>Apart from being a techie, I enjoy most of my time being outdoors. I enjoy hiking, site seeing, and traveling.</p>
+                    <p class="mb-0">When forced indoors, I follow a number of sci-fi and fantasy genre movies and television shows, I am an aspiring chef, and I spend a large amount of my free time exploring the latest technology advancements in the tech world.</p>
                 </div>
             </section>
             <hr class="m-0" />
@@ -184,24 +200,18 @@
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             Best UI project from Azubi Africa
                         </li>
-<!--                        <li>-->
-<!--                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>-->
-<!--                            1-->
-<!--                            <sup>st</sup>-->
-<!--                            Place - University of Colorado Boulder - Emerging Tech Competition 2009-->
-<!--                        </li>-->
-<!--                        <li>-->
-<!--                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>-->
-<!--                            1-->
-<!--                            <sup>st</sup>-->
-<!--                            Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)-->
-<!--                        </li>-->
-<!--                        <li>-->
-<!--                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>-->
-<!--                            2-->
-<!--                            <sup>nd</sup>-->
-<!--                            Place - University of Colorado Boulder - Emerging Tech Competition 2008-->
-<!--                        </li>-->
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            Cisco Certified Network Associate
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            OCI Foundations 2021 Associate
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
+                            AWS Graduate
+                        </li>
 <!--                        <li>-->
 <!--                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>-->
 <!--                            1-->
